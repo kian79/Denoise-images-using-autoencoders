@@ -5,11 +5,11 @@ In this project, I used an autoencoder to denoise dirty images that contain text
 # Evaluation
 Here you can see the loss of the model over epochs.
 
-[![Loss over epochs](https://github.com/kian79/Denoise-images-using-autoencoders/Loss.png)]
+[![Loss over epochs](https://github.com/kian79/Denoise-images-using-autoencoders/Loss.png)](https://github.com/kian79/Denoise-images-using-autoencoders/Loss.png))
 
 
 # Evaluation
 Below is an example of the output of the model.
 
-[![Loss over epochs](https://github.com/kian79/Denoise-images-using-autoencoders/Output.png)]
+[![Loss over epochs](https://github.com/kian79/Denoise-images-using-autoencoders/Output.png)](https://github.com/kian79/Denoise-images-using-autoencoders/Loss.png))
 
