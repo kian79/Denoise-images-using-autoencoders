@@ -11,5 +11,5 @@ Here you can see the loss of the model over epochs.
 # Evaluation
 Below is an example of the output of the model.
 
-[![Loss over epochs](https://github.com/kian79/Denoise-images-using-autoencoders/Output.png)](https://github.com/kian79/Denoise-images-using-autoencoders/Loss.png))
+[![Loss over epochs](https://github.com/kian79/Denoise-images-using-autoencoders/blob/main/Output.png)](https://github.com/kian79/Denoise-images-using-autoencoders/blob/main/Output.png))
 
